@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 25px;
+}
+
+.foto-perfil{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    align-items: center;
+}
+
+.icone{
+    width: 20px;
+    height: 20px;
+}
+
+.col-1{
+    float: left;
+    background-color: rgb(61, 61, 61);
+    width: 30%;
+    height: 650px;
+    padding: 4px;
+    color: white;
+}
+
+.nome{
+    padding: 10px;
+}
+
+.titulo-1{
+    font: bold;
+    color: rgb(61, 61, 61);
+    background-color: white;
+    padding: 5px;
+    -border-style: solid;
+    -border-color: rgb(5, 43, 43);
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.corpo{
+    float: center;
+    padding: 20;
+}
+
+.empresa-instituicao{
+    font-size: 20px;
+    font-style: italic;
+}
+
+.periodo{
+    font-size: 12px;
+}
